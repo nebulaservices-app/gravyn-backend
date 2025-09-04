@@ -1,0 +1,22 @@
+[
+  {
+    "Task": "SEO Audit",
+    "DueTime": "July 16, 2025 @ 11:30 PM",
+    "PrepStart": "July 16, 2025 @ 8:21 PM",
+    "IdealStart": "July 16, 2025 @ 9:35 PM",
+    "InPrepWindow": false,
+    "OverdueBy_Hours": "0.00",
+    "HeatLevel": "🟢 Normal",
+    "DeadlineRisk": "✅ On Track",
+    "TimeWarning": "🌙 PrepStart in Night Hours & IdealStart in Night Hours",
+    "SuggestedPrepStart": "July 16, 2025 @ 7:59 PM",
+    "SuggestedIdealStart": "July 16, 2025 @ 7:59 PM",
+    "RT_in_Hours": "6.25",
+    "T_req_in_Hours": "1.90",
+    "BaseLoad": "0.000018",
+    "UM": "0.554601",
+    "SM": 1.15,
+    "PM": 0.9,
+    "WLC": "0.000011"
+  }
+]
